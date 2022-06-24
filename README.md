@@ -1,6 +1,6 @@
-# ThemePlate NavWalker
+# ThemePlate NavWalker _(Legacy)_
 
-> A clean navwalker
+> _Check out the [Cleaner](https://github.com/ThemePlate/Cleaner) package._
 
 ## Extend / Customize
 
